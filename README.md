@@ -29,3 +29,14 @@ and my estimate turned out not to be accurate.
 Nonetheless, I am not worried about this since my schedule has enough slack to allow for delays.
 Furthermore, I can always find more references as I write a given section of my thesis, at which point the relevant subject or subjects will be fresh in my mind, thus enabling me to find
 quality material at a faster rate.
+
+# Monday 10 July–Saturday 22 July
+
+Writing my draft introduction took a week longer than expected, but for good reason. I set out to write around 300 words, but ended up drawing from a deep well of impromptu inspiration and writing 1920 words, referencing around three times as many sources than I had planned. In this draft, I attempt to address the following topics:
+
+* What subjects I cover in my thesis
+* Why these subjects are important
+* Who the thesis was written for
+* My objectives for readers
+
+This is only a draft, and as such, it is likely to be refined and modified over time. However, I am quite pleased with it as it is.
