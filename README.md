@@ -40,3 +40,7 @@ Writing my draft introduction took a week longer than expected, but for good rea
 * My objectives for readers
 
 This is only a draft, and as such, it is likely to be refined and modified over time. However, I am quite pleased with it as it is.
+
+# Monday 17 July - Saturday 19 August
+
+I am writing this blog entry in a very belated fashion, after going on holiday with limited availability and subsequently encountering unexpected delays. However, I am now back on schedule and working to pick up the pace of my work. The sections I have written thus far following the introduction of my thesis have matched the word count I expected, and at times exceeded the quality I had anticipated. As the subjects I was writing about all fell under the umbrella of art, I found highly varied and often conflicting opinions among authors (as is often the case with these kinds of subjects), and had to spend much time considering which authors had credibility and which hadn't. For example, many of the conflicting sources I found were commercial in nature (written by for-profit organisations), and thus may have been biased due to vested interests. In order to make my thesis accurate and impartial, I had to seek more acedemic sources, which was sometimes difficult since many scholars in the field of art write in an esoteric and convoluted style. Regardless, all went well in the end.
